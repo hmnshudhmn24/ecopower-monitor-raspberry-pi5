@@ -2,7 +2,6 @@
 
 🌱 A smart energy usage tracker built using a Raspberry Pi. It uses sensors to monitor real-time power consumption and provides AI-powered suggestions to save energy.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@
 - 📝 Daily and weekly usage logs
 - 📡 Remote access via Flask-based web dashboard
 
----
 
 ## 📦 Requirements
 
@@ -33,7 +31,6 @@ Install with:
 pip install flask matplotlib pandas numpy
 ```
 
----
 
 ## 🧠 How It Works
 
@@ -44,7 +41,6 @@ pip install flask matplotlib pandas numpy
    - "Unplug idle devices"
    - "Usage spike detected at 2 PM — check appliances"
 
----
 
 ## 🖥️ Web Dashboard
 
@@ -57,7 +53,6 @@ python app.py
 
 Live graph, daily report, and tips are shown.
 
----
 
 ## 📂 Project Structure
 
@@ -71,7 +66,6 @@ eco-power-monitor-raspberry-pi/
 └── usage_log.csv         # Daily energy usage log
 ```
 
----
 
 ## 🤖 Future Ideas
 
@@ -80,20 +74,8 @@ eco-power-monitor-raspberry-pi/
 - Integrate voice alerts with a speaker
 - MQTT support for IoT integration
 
----
 
 ## 📸 Screenshots
 
 _(You can add real screenshots of the web UI and graph here)_
 
----
-
-## 👨‍🔧 Author
-
-Made with ❤️ for Raspberry Pi by [YourName]
-
----
-
-## 📝 License
-
-MIT License
