@@ -74,8 +74,3 @@ eco-power-monitor-raspberry-pi/
 - Integrate voice alerts with a speaker
 - MQTT support for IoT integration
 
-
-## 📸 Screenshots
-
-_(You can add real screenshots of the web UI and graph here)_
-
